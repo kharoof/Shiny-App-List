@@ -1,4 +1,4 @@
-Shiny Apps by @kharoof on Shinyapps.io
+Shiny Apps by @kharoof hosted on <a href="https://www.shinyapps.io/">https://www.shinyapps.io/</a>
 
 ![](https://github.com/kharoof/Shiny-App-List/blob/main/woman-ga8f1d430e_640.jpg)
 
