@@ -4,7 +4,7 @@
 
 ## HiveAnalytics
 An App to interactively explore user Activity on the Steem Blockchain
-<a href="https://eroche.shinyapps.io/SteemAnalytics/">Steem Analytics</a>
+* <a href="https://eroche.shinyapps.io/SteemAnalytics/">Steem Analytics</a>
 Blockchain Backend
 
 ## Hive Engagement
