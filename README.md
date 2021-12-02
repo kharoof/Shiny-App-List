@@ -1,8 +1,8 @@
-Shiny Apps by @kharoof hosted on <a href="https://www.shinyapps.io/">https://www.shinyapps.io/</a>
+Shiny Apps by <a href="https://github.com/kharoof/">@kharoof</a> hosted on <a href="https://www.shinyapps.io/">https://www.shinyapps.io/</a>
 
 ![](https://github.com/kharoof/Shiny-App-List/blob/main/woman-ga8f1d430e_640.jpg)
 
-# Blockchain Data Analsis
+# Blockchain Data Analysis Apps
 
 ### HiveAnalytics
 An App to interactively explore user Activity on the Steem Blockchain. This is a fully featured app that looks at many facets of the hive Blockchain and includes metrics at the user and the Blockchain Level
