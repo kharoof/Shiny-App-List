@@ -32,6 +32,9 @@ An App to interactively explore user Activity on the Steem Blockchain
 
 Blockchain Backend
 
+
+# Other Projects
+
 ## Property Price Register
 An App to analyse Irish Property Prices
 * <a href="https://eroche.shinyapps.io/propertypriceregister/">Property Price Register</a>
